@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mentalsupremacy
-- 👀 I’m interested in launching a crypto currency on Solan with a reflection of 15% given back to the token holders. Focused on decentralized artist management, content management, protection and distribution via a world wide Label platform. 
+- 👀 I’m interested in launching a crypto currency on Solana with a reflection of 15% given back to the token holders. Focused on decentralized artist management, content management, protection and distribution via a world wide Label platform. 
 - 💞️ I’m looking to collaborate on the development and design aspect of the platform.
 - 📫 How to reach me denofoz@protonmail.com
 
